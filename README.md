@@ -20,6 +20,6 @@
 
 ## Licença 
 
-The [MIT License]() (MIT)
+The [Free License]() (Free)
 
 Copyright :copyright: 2023 - Matheus J. Santos
