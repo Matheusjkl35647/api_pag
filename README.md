@@ -7,11 +7,9 @@
 </p>
 
 ## Tecnologias :computer: 
-<div>
 - ``Laravel``
 - ``Vue.js``
 - ``Axios``
-</div>
 
 ## Contatos
 <div>
