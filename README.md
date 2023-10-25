@@ -2,16 +2,16 @@
  <h2 align="center">Projeto Form Pagamento + API</h2>
 </p>
 
+<p align="center">
+    <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 <table>
   <tr>
     <td><img src="./DesktopDesenvolvimento.jpg" alt="Desktop em Desenvolvimento"></td>
     <td><img src="./MobileDesenvolvimento.jpg" alt="Mobile em Desenvolvimento"></td>
   </tr>
 </table>
-
-<p align="center">
-    <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
 
 ## Tecnologias :computer: 
 - ``Laravel``
