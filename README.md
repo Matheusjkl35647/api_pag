@@ -11,6 +11,15 @@
 - ``Vue.js``
 - ``Axios``
 
+## Informações Adicioinais :computer: 
+- ``State Management - VUEX``
+- ``Componetização``
+- ``Preloaders``
+- ``Mobile-First-Design``
+- ``Testes unitários``
+- ``Acessibilidade - WCAG``
+- ``Segurança dos dados - PCI DSS``
+
 ## Contatos
 <div>
 <a href="https://instagram.com/matheusjhonathan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
